@@ -19,3 +19,12 @@ Descrizioni File
 /Italian/extras Widget, ad es. Schermata di blocco.
 /Italian/device Traduzioni specifiche del dispositivo per alcuni modelli Xiaomi.
 /Italian/main Applicazioni MIUI (APK)
+
+Si ringraziano per il Fork:
+- nathangiovannini3 (Mantainer MIUI_V11_ITA)
+- MarkHUK
+- ingbrzy
+- ale8530
+- realtebo
+- orlaf
+- Mish
