@@ -9,7 +9,7 @@ Traduttori
 
 - Device: 	Mi 10 Pro
 
-- Contacts: 				lorenz.the.sub@gmail.com
+- Contacts: 	lorenz.the.sub@gmail.com
 
 Features
 Vengono eseguiti aggiornamenti giornalieri
