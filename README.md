@@ -7,9 +7,9 @@ Supporto ROM Beta per xiaomi.eu
 Traduttori
 - BIOLorenz
 
-Dispositivo: 	Mi 10 Pro
+- Device: 	Mi 10 Pro
 
-Contatto: 				lorenz.the.sub@gmail.com
+- Contacts: 				lorenz.the.sub@gmail.com
 
 Features
 Vengono eseguiti aggiornamenti giornalieri
@@ -22,7 +22,7 @@ Descrizioni File
 /Italian/device Traduzioni specifiche del dispositivo per alcuni modelli Xiaomi.
 /Italian/main Applicazioni MIUI (APK)
 
-Si ringraziano per il Fork:
+Si ringraziano per il Fork | Special Thanks:
 - nathangiovannini3 (Mantainer MIUI_V11_ITA)
 - MarkHUK
 - ingbrzy
