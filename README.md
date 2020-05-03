@@ -6,8 +6,10 @@ Supporto ROM Beta per xiaomi.eu
 
 Traduttori
 - BIOLorenz
-Dispositivo: Mi 10 Pro
-Contatto: lorenz.the.sub@gmail.com
+
+Dispositivo: 	Mi 10 Pro
+
+Contatto: 				lorenz.the.sub@gmail.com
 
 Features
 Vengono eseguiti aggiornamenti giornalieri
