@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="korea_permission_groups_descriptions">
+        <item>Per identificare gli elementi sincronizzati</item>
+        <item>Per sincronizzare i messaggi</item>
+        <item>Per sincronizzare i contatti</item>
+        <item>Per sincronizzare gli eventi del calendario</item>
+        <item>Per sincronizzare gli elementi dei servizi che utilizzano lo spazio di archiviazione</item>
+     </string-array>
+     <string-array name="korea_permission_groups_names">
+        <item>Telefono</item>
+        <item>SMS</item>
+        <item>Contatti</item>
+        <item>Calendario</item>
+        <item>Archiviazione</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray">
+        <item>Sincronizza i tuoi contatti, messaggi, note, calendario ed altro</item>
+        <item>Esegui il backup di applicazioni, layout Home e sfondi</item>
+        <item>Esegui il backup di impostazioni importanti, incluse quelle di Wi-Fi e schermo</item>
+        <item>Controlla da remoto se hai perso il tuo dispositivo</item>
+     </string-array>
+     <string-array name="micloud_entrance_titleArray">
+        <item>Sincronizza dati app</item>
+        <item>Esegui il backup del layout Home</item>
+        <item>Esegui il backup delle impostazioni di sistema</item>
+        <item>Trova dispositivo</item>
+     </string-array>
+     <string-array name="settings_search_backup_manage">
+        <item>Backup</item>
+        <item>Elementi salvati</item>
+        <item>Cloud;Back up;Backup;Servizi Cloud;Mi Cloud;Schermata Home;Layout;App;Gestione backup;Ripristina</item>
+     </string-array>
+     <string-array name="settings_search_backup_setting">
+        <item>Back up Home screen to Mi Cloud</item>
+        <item>Back up Home screen layout, list of installed apps, and system settings</item>
+        <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Settings;Backup frequency;Manage backups;Restore</item>
+     </string-array>
+     <string-array name="settings_search_browser">
+        <item>Sincronizza il Browser con Mi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Browser;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_calendar">
+        <item>Sincronizza il Calendario con Mi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Calendario;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_contacts">
+        <item>Sincronizza i Contatti con Mi Cloud</item>
+        <item>Attiva/configura la sincronizzazione</item>
+        <item>Contatti;Registro chiamate;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_dial">
+        <item>Sincronizza il registro chiamate con Mi Cloud</item>
+        <item>Attiva/configura la sincronizzazione</item>
+        <item>Registro chiamate;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_find_pad">
+        <item>Trova dispositivo</item>
+        <item>Cancella i dati e blocca il dispositivo in caso di smarrimento</item>
+        <item>Trova dispositivo;Perso;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_find_phone">
+        <item>Trova dispositivo</item>
+        <item>Cancella i dati e blocca il dispositivo in caso di smarrimento</item>
+        <item>Trova dispositivo;Perso;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_gallery">
+        <item>Sincronizza la Galleria con Mi Cloud</item>
+        <item>Attiva/configura la sincronizzazione</item>
+        <item>Galleria;Foto;Cloud;Sincronizazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_music">
+        <item>Sincronizza la musica con Mi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Musica;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_notes">
+        <item>Sincronizza le Note con Mi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Note;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_personal_assistant">
+        <item>Sincronizza Assistente App con Mi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Assistente App;Schede;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_recorder">
+        <item>Sincronizza le registrazioni con Mi Cloud</item>
+        <item>Attiva/configura la sincronizzazione</item>
+        <item>Registratore;Cloud;Sincronizzazione;Servizi cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_recycle_bin">
+        <item>Elimina elementi su Mi Cloud</item>
+        <item>Ripristina i contatti, foto, messaggi e altro</item>
+        <item>Cestino;Elimina elementi;Cestino;Ripristina;CServizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_restore_device">
+        <item>Ripristina elementi con Mi Cloud</item>
+        <item>Scarica sul tuo dispositivo gli elementi salvati</item>
+        <item>Cloud;Backup;Backup;Ripristino;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_security">
+        <item>Sincronizza Sicurezza con Mi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Sicurezza;Cloud;Sincronizzazione;Servizi cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_sms">
+        <item>Sincronizza i Messagi con Mi Cloud</item>
+        <item>TAttiva/configura la sincronizzazione</item>
+        <item>Messaggi;SMS;MMS;Cloud;Sincronizzazione;Servizi cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_subscribe_vip">
+        <item>Piano Mi Cloud</item>
+        <item>Aggiorna il tuo piano, ottieni più spazio di archiviazione e sicurezza per i tuoi dati</item>
+        <item>Spazio di archiviazione non sufficiente;Piano;Archiviazione;Spazio di archiviazione;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud;Mega;Ultra;VIP;Backup;Backup;Ripristino;Cestino;Elimiazione elementi;Cestino</item>
+     </string-array>
+     <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. Tutti i Seervizi Mi in un unico posto.</item>
+        <item>Accedi a foto, contatti, messaggi e dispositivi da qualunque posto</item>
+        <item>menoria insufficiente;Paino;Archiviazione;Spazio di archiviazione;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud;Cestino;Eleemnti eliminati;Sicurezza</item>
+     </string-array>
+     <string-array name="settings_search_wlan">
+        <item>Sincronizzazione impostazioni WI-Fi con Mi Cloud</item>
+        <item>Attiva sincronizzazione</item>
+        <item>Wi-Fi;wifi;WLAN;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+     </string-array>
+     <string-array name="user_detail_fixed_items">
+        <item>Mostra elementi sincronizzati</item>
+        <item>Dettagli archiviazione</item>
+     </string-array>
+</resources>
